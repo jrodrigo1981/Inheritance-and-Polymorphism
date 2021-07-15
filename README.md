@@ -6,7 +6,13 @@
 
 
 
-![](C:\Users\Rodrigo\Desktop\exercicio.jpg)
+<img src = "img/exercicio.jpg">
+
+
+
+
+
+
 
 
 
